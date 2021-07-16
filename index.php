@@ -17,7 +17,6 @@
 </head>
 
 <body>
-    <?php echo '<p>This is PHP.</p>'; ?>
     <nav class="navbar navbar-light bg-light navbar-expand-lg fixed-top">
         <div class="container"> <a class="navbar-brand" href="#">Lukner Medical Clinic</a>
             <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation"> <span class="navbar-toggler-icon"></span> </button>
@@ -60,20 +59,20 @@
                     <p class="text-muted">Select patients scheduled to be seen today.&nbsp; You can also search for and select any patient that you need.&nbsp; Finally, switch between patients effortlessly.</p>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 text-center py-4"> <i class="fa fa-area-chart fa-4x text-muted" aria-hidden="true"></i>
-                    <h5 class="text-info">Feature 1</h5>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci atque beatae dicta dolores hic porro quam voluptatibus.</p>
+                    <h5 class="text-info">Graph and Chart Quality Metrics</h5>
+                    <p class="text-muted">Patient visit assist is configured to display MIPS and MOC quality metrics to help demonstrate gaps in preventative or chronic care management.</p>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 text-center py-4"> <i class="fa fa-bolt fa-4x text-muted" aria-hidden="true"></i>
                     <h5 class="text-info">Access Data Quickly</h5>
                     <p class="text-muted">The Patient Visit Assist web application instantly pulls together all the available information for a patient visit.&nbsp;</p>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 text-center py-4"> <i class="fa fa-cog fa-4x text-muted" aria-hidden="true"></i>
-                    <h5 class="text-info">Feature 1</h5>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci atque beatae dicta dolores hic porro quam voluptatibus.</p>
+                    <h5 class="text-info">Fully configurable</h5>
+                    <p class="text-muted">Patient Assist is fully configurable to match your patient workflow.&nbsp; Enjoy less jumping around from web page to web page as you traverse the patient visit from start to finish.</p>
                 </div>
                 <div class="col-12 col-md-6 col-lg-4 text-center py-4"> <i class="fa fa-database fa-4x text-muted" aria-hidden="true"></i>
-                    <h5 class="text-info">Feature 1</h5>
-                    <p class="text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci atque beatae dicta dolores hic porro quam voluptatibus.</p>
+                    <h5 class="text-info">Secure and immediate storage</h5>
+                    <p class="text-muted">Data is immediately stored securely in a database. No more losing data because you lost an internet connection or closed a web page.</p>
                 </div>
             </div>
         </div>
